@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding-top: 20vh;
+}
+
+body {
+  background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-september-september-chung-yeung-festival-poster-september-nine-double-ninth-festival-image_39215.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
